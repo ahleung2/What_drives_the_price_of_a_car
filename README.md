@@ -3,7 +3,7 @@
 The goal is to identify key drivers for used car prices and to inform our client, a used car dealership, of our findings.
 
 ## Data:
-The dataset explored comes from kaggle which originally contained information on 3 million used cars. However, the provided dataset contains information on 426K cars to ensure speed of processing. For more details on the dataset, please refer to the following notebook: (link)
+The dataset explored comes from kaggle which originally contained information on 3 million used cars. However, the provided dataset contains information on 426K cars to ensure speed of processing. For more details on the dataset, please refer to the following notebook: [Notebook](https://github.com/ahleung2/What_drives_the_price_of_a_car/blob/main/Leung_Aaron%20_What_drives_the_price_of_a_car.ipynb)
 
 ## Findings: 
 To quickly recap, the goal is to help our client better understand what attributes drive the prices of used cars. In this project, I created three models to identify the key drivers for used car prices. Described below are the summary of the findings for each respective models as well as conclusions that can be derived based on these findings.
